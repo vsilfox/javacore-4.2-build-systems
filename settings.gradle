@@ -1,0 +1,5 @@
+rootProject.name = 'javacore-4.2-build-systems'
+include 'db'
+include 'service'
+include 'api'
+
